@@ -1,4 +1,4 @@
-import { GetServerSideProps } from 'next'
+
 import VideoCard from '../components/VideoCard';
 import NoResults from '../components/NoResults';
 
